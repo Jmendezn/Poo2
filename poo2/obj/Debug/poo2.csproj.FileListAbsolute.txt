@@ -10,3 +10,10 @@ c:\users\jhmn_\documents\visual studio 2012\Projects\poo2\poo2\obj\Debug\poo2.pd
 C:\Users\jhmn_\source\repos\poo2\poo2\bin\Debug\poo2.exe.config
 C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.exe
 C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.pdb
+C:\Users\jhmn_\source\repos\Poo2\poo2\bin\Debug\poo2.exe
+C:\Users\jhmn_\source\repos\Poo2\poo2\bin\Debug\poo2.pdb
+C:\Users\jhmn_\source\repos\Poo2\poo2\obj\Debug\poo2.csprojAssemblyReference.cache
+C:\Users\jhmn_\source\repos\Poo2\poo2\obj\Debug\poo2.Form1.resources
+C:\Users\jhmn_\source\repos\Poo2\poo2\obj\Debug\poo2.Properties.Resources.resources
+C:\Users\jhmn_\source\repos\Poo2\poo2\obj\Debug\poo2.csproj.GenerateResource.cache
+C:\Users\jhmn_\source\repos\Poo2\poo2\obj\Debug\poo2.csproj.CoreCompileInputs.cache
