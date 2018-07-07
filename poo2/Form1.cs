@@ -19,6 +19,8 @@ namespace poo2
 
         class Productos
         {
+
+            // calis
             // Propiedades
             public long producto_codigo = 0;
             public string producto_nombre = "";
