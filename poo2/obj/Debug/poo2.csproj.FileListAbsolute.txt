@@ -1,0 +1,12 @@
+c:\users\jhmn_\documents\visual studio 2012\Projects\poo2\poo2\bin\Debug\poo2.exe.config
+c:\users\jhmn_\documents\visual studio 2012\Projects\poo2\poo2\bin\Debug\poo2.exe
+c:\users\jhmn_\documents\visual studio 2012\Projects\poo2\poo2\bin\Debug\poo2.pdb
+c:\users\jhmn_\documents\visual studio 2012\Projects\poo2\poo2\obj\Debug\poo2.csprojResolveAssemblyReference.cache
+c:\users\jhmn_\documents\visual studio 2012\Projects\poo2\poo2\obj\Debug\poo2.Form1.resources
+c:\users\jhmn_\documents\visual studio 2012\Projects\poo2\poo2\obj\Debug\poo2.Properties.Resources.resources
+c:\users\jhmn_\documents\visual studio 2012\Projects\poo2\poo2\obj\Debug\poo2.csproj.GenerateResource.Cache
+c:\users\jhmn_\documents\visual studio 2012\Projects\poo2\poo2\obj\Debug\poo2.exe
+c:\users\jhmn_\documents\visual studio 2012\Projects\poo2\poo2\obj\Debug\poo2.pdb
+C:\Users\jhmn_\source\repos\poo2\poo2\bin\Debug\poo2.exe.config
+C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.exe
+C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.pdb
