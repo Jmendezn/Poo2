@@ -12,8 +12,58 @@ C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.exe
 C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.pdb
 C:\Users\jhmn_\source\repos\Poo2\poo2\bin\Debug\poo2.exe
 C:\Users\jhmn_\source\repos\Poo2\poo2\bin\Debug\poo2.pdb
-C:\Users\jhmn_\source\repos\Poo2\poo2\obj\Debug\poo2.csprojAssemblyReference.cache
 C:\Users\jhmn_\source\repos\Poo2\poo2\obj\Debug\poo2.Form1.resources
 C:\Users\jhmn_\source\repos\Poo2\poo2\obj\Debug\poo2.Properties.Resources.resources
 C:\Users\jhmn_\source\repos\Poo2\poo2\obj\Debug\poo2.csproj.GenerateResource.cache
-C:\Users\jhmn_\source\repos\Poo2\poo2\obj\Debug\poo2.csproj.CoreCompileInputs.cache
+C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.Form2.resources
+C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.Punto_venta.resources
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\obj\Debug\poo2.csprojAssemblyReference.cache
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\obj\Debug\poo2.ChekadorP.resources
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\obj\Debug\poo2.Form1.resources
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\obj\Debug\poo2.Form2.resources
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\obj\Debug\poo2.PrintTest.resources
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\obj\Debug\poo2.Properties.Resources.resources
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\obj\Debug\poo2.Punto_venta.resources
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\obj\Debug\poo2.csproj.GenerateResource.cache
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\obj\Debug\poo2.csproj.CoreCompileInputs.cache
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\obj\Debug\poo2.exe
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\obj\Debug\poo2.pdb
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\bin\Debug\poo2.exe.config
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\bin\Debug\poo2.exe
+C:\Users\jhmn_\source\repos\poo2xxx\poo2\bin\Debug\poo2.pdb
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\bin\Debug\poo2.exe.config
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\bin\Debug\poo2.exe
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\bin\Debug\poo2.pdb
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\obj\Debug\poo2.csprojAssemblyReference.cache
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\obj\Debug\poo2.ChekadorP.resources
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\obj\Debug\poo2.Form1.resources
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\obj\Debug\poo2.Form2.resources
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\obj\Debug\poo2.PrintTest.resources
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\obj\Debug\poo2.Properties.Resources.resources
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\obj\Debug\poo2.Punto_venta.resources
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\obj\Debug\poo2.csproj.GenerateResource.cache
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\obj\Debug\poo2.csproj.CoreCompileInputs.cache
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\obj\Debug\poo2.exe
+C:\Users\JesusH\Documents\Visual Studio 2012\Projects\poo2\poo2\obj\Debug\poo2.pdb
+C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.ChekadorP.resources
+C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.PrintTest.resources
+G:\poo2\poo2\poo2\bin\Debug\poo2.exe.config
+G:\poo2\poo2\poo2\bin\Debug\poo2.exe
+G:\poo2\poo2\poo2\bin\Debug\poo2.pdb
+G:\poo2\poo2\poo2\obj\Debug\poo2.csprojAssemblyReference.cache
+G:\poo2\poo2\poo2\obj\Debug\poo2.ChekadorP.resources
+G:\poo2\poo2\poo2\obj\Debug\poo2.Form1.resources
+G:\poo2\poo2\poo2\obj\Debug\poo2.Form2.resources
+G:\poo2\poo2\poo2\obj\Debug\poo2.PrintTest.resources
+G:\poo2\poo2\poo2\obj\Debug\poo2.Properties.Resources.resources
+G:\poo2\poo2\poo2\obj\Debug\poo2.Punto_venta.resources
+G:\poo2\poo2\poo2\obj\Debug\poo2.csproj.GenerateResource.cache
+G:\poo2\poo2\poo2\obj\Debug\poo2.csproj.CoreCompileInputs.cache
+G:\poo2\poo2\poo2\obj\Debug\poo2.csproj.CopyComplete
+G:\poo2\poo2\poo2\obj\Debug\poo2.exe
+G:\poo2\poo2\poo2\obj\Debug\poo2.pdb
+G:\poo2\poo2\poo2\obj\Debug\poo2.INTEGRADOR.resources
+C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.csprojAssemblyReference.cache
+C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.INTEGRADOR.resources
+C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.csproj.CoreCompileInputs.cache
+C:\Users\jhmn_\source\repos\poo2\poo2\obj\Debug\poo2.csproj.CopyComplete
